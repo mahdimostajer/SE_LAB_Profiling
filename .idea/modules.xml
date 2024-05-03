@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProfilingSample.iml" filepath="$PROJECT_DIR$/ProfilingSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProfilingTest.iml" filepath="$PROJECT_DIR$/ProfilingTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SE_LAB_Profiling.iml" filepath="$PROJECT_DIR$/.idea/SE_LAB_Profiling.iml" />
     </modules>
   </component>
